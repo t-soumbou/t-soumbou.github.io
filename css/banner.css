@@ -1,0 +1,3811 @@
+#seoManualContent .corporate-page.page-main-title .banner-hand img {
+  width: auto;
+  max-width: 100% !important;
+}
+#seoManualContent .app-btn img {
+  border-radius: 0 !important;
+  width: auto;
+  max-width: 100% !important;
+}
+#seoManualContent .blue-panel .container .row .mobile-tickets-image img {
+  width: auto;
+  max-width: 100% !important;
+}
+#seoManualContent .corporate.carousel {
+  min-height: unset !important;
+  max-width: 100%;
+  width: 100%;
+}
+#seoManualContent .corporate.carousel.slide .carousel-inner .item {
+  max-height: unset !important;
+  height: 100% !important;
+}
+#seoManualContent .corporate.carousel.slide .carousel-inner .item img {
+  max-height: 270px;
+  width: auto;
+  min-width: unset;
+  margin-bottom: 12px;
+}
+#seoManualContent
+  .corporate.carousel.slide
+  .carousel-inner
+  .item
+  .portrait.carousel-caption {
+  position: relative;
+  box-shadow: none;
+  padding: 12px;
+  text-align: left;
+}
+#seoManualContent .corporate.carousel.slide .left.carousel-control,
+#seoManualContent .corporate.carousel.slide .right.carousel-control {
+  bottom: unset !important;
+  width: 12.5%;
+  height: 100% !important;
+  transform: rotate(0deg);
+  top: 0;
+}
+#seoManualContent .corporate.carousel.slide .left.carousel-control:after,
+#seoManualContent .corporate.carousel.slide .right.carousel-control:after,
+#seoManualContent .corporate.carousel.slide .left.carousel-control:before,
+#seoManualContent .corporate.carousel.slide .right.carousel-control:before {
+  display: none;
+}
+@media screen and (min-width: 768px) {
+  #seoManualContent .corporate.carousel.slide .carousel-inner .item img {
+    max-height: 435px;
+    padding-top: 60px;
+    max-width: 50%;
+    background-color: transparent;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+  #seoManualContent
+    .corporate.carousel.slide
+    .carousel-inner
+    .item
+    .portrait.carousel-caption {
+    position: relative;
+    max-width: 50%;
+    padding-top: 60px;
+  }
+
+  #seoManualContent .corporate.carousel {
+    padding-left: 8.5%;
+    padding-right: 8.5%;
+  }
+  #seoManualContent .corporate.carousel.slide .left.carousel-control .glyphicon,
+  #seoManualContent
+    .corporate.carousel.slide
+    .right.carousel-control
+    .glyphicon {
+    border: none;
+  }
+  #seoManualContent .corporate.carousel.slide .left.carousel-control {
+    left: 0;
+  }
+  #seoManualContent .corporate.carousel.slide .right.carousel-control {
+    right: 0;
+  }
+  #seoManualContent
+    .corporate.carousel.slide
+    .right.carousel-control
+    .glyphicon {
+    left: unset;
+  }
+  #seoManualContent .corporate.portrait.carousel-control.left {
+    max-height: 100%;
+    bottom: 0;
+    left: 0;
+  }
+  #seoManualContent .corporate.portrait.carousel-control.right {
+    max-height: 100%;
+    bottom: 0;
+    right: 0;
+  }
+  #seoManualContent .corporate.carousel.slide {
+    max-width: 100%;
+    padding-left: 8.5%;
+    padding-right: 8.5%;
+  }
+}
+
+#seoManualContent [data-id="leadership"] {
+  display: none !important;
+}
+
+#seoManualContent #termsandconditions {
+  max-width: 752px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#seoManualContent #tracking-opt-out {
+  max-width: 752px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#seoManualContent .boxed {
+  max-width: 752px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#seoManualContent #imprint .article {
+  padding-top: 0 !important;
+}
+
+.container.quick-guide {
+  display: none;
+}
+
+#seoManualContent .container {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+#seoManualContent .row {
+  max-width: inherit;
+  margin-left: 0;
+}
+
+
+
+/* collapsible section */
+
+#seoManualContent {
+  color: #132968 !important;
+}
+
+#seoManualContent .panel-group {
+  margin-left: 0;
+  margin-right: -15px !important;
+  margin-top: 55px !important;
+  margin-bottom: 55px !important;
+}
+
+#seoManualContent a .panel-heading {
+  color: #132968 !important;
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  height: 56px !important;
+  display: table !important;
+  min-width: 100%;
+}
+
+#seoManualContent .panel-title {
+  font-weight: bold !important;
+  display: table-cell !important;
+  vertical-align: middle !important;
+}
+
+#seoManualContent .panel-default {
+  border: 0px !important;
+  border-radius: 8px !important;
+  background-color: #ffffff !important;
+  box-shadow: inset 0 -1px 0 0 rgba(0, 0, 0, 0.1),
+    0 2px 5px 0 rgba(19, 41, 104, 0.2) !important;
+}
+
+#seoManualContent .panel-collapse {
+  border-top: 1px solid #e4e8eb;
+}
+
+#seoManualContent .panel-group .panel .panel-heading:after {
+  -webkit-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  transition: all 0.3s;
+  position: relative;
+  top: 23px;
+  right: -7px;
+  display: block;
+  height: 8px;
+  width: 8px;
+  border: solid #a1a9c3;
+  border-width: 2px 2px 0 0;
+  content: "";
+  -webkit-transform: rotate(135deg);
+  -moz-transform: rotate(135deg);
+  -o-transform: rotate(135deg);
+  -ms-transform: rotate(135deg);
+  transform: rotate(135deg);
+}
+
+#seoManualContent
+  .panel-group
+  .panel
+  a[aria-expanded="true"]
+  .panel-heading:after {
+  display: block;
+  height: 8px;
+  width: 8px;
+  border: solid #a1a9c3;
+  border-width: 2px 2px 0 0;
+  content: "";
+  -webkit-transform: rotate(315deg);
+  -moz-transform: rotate(315deg);
+  -o-transform: rotate(315deg);
+  -ms-transform: rotate(315deg);
+  transform: rotate(315deg);
+}
+
+#seoManualContent .panel-body {
+  padding-top: 24px !important;
+  padding-bottom: 32px !important;
+}
+
+@media screen and (min-width: 768px) {
+  #seoManualContent .grey-panel .panel-group,
+  #seoManualContent .blue-panel .panel-group {
+    margin-top: 90px !important;
+    margin-bottom: 90px !important;
+  }
+
+  #seoManualContent .panel-body {
+    padding: 32px 25px !important;
+  }
+
+  #seoManualContent .panel-group .panel .panel-heading {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+
+  #seoManualContent .blue-panel .panel-group .panel .panel-heading:after,
+  #seoManualContent .grey-panel .panel-group .panel .panel-heading:after {
+    right: -45px;
+  }
+}
+
+/* end of collapsible section */
+/*menu*/
+#seoManualContent section.buttons {
+  margin-top: 50px;
+  /* margin-left: 15px; */
+  /* margin-right: 15px; */
+}
+
+#seoManualContent section.buttons .page-thumb-teaser {
+  display: table;
+  padding-left: 0;
+  padding-right: 0;
+  margin-top: 15px;
+}
+
+#seoManualContent section.buttons .page-thumb-teaser a {
+  border: 1px solid #a1a9c3;
+  border-radius: 8px;
+  height: 48px;
+  text-align: center;
+  display: table-cell;
+  vertical-align: middle;
+  color: #425486 !important;
+  font-weight: 600;
+}
+
+#seoManualContent section.buttons .page-thumb-teaser a:hover {
+  cursor: pointer;
+  background-color: rgba(161, 169, 195, 0.1);
+}
+
+@media screen and (min-width: 992px) {
+  #seoManualContent section.buttons .page-thumb-teaser {
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+
+  #seoManualContent section.buttons {
+    margin-left: -8px;
+    margin-right: -8px;
+  }
+}
+
+/*end of menu*/
+/* beginning of submenu */
+#seoManualContent p a#submenu {
+  display: inline-block;
+  /* min-width: 90%; */
+  /* text-align: left; */
+  margin-top: 50px;
+  color: #5e90cc !important;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+p a#submenu:after {
+  position: relative;
+  top: 0px;
+  right: 0px;
+  /* float: left!important; */
+  display: block;
+  /* content:" "; */
+  /* background-color: red; */
+  /* min-width: 16px; */
+  max-width: 16px;
+  min-height: 16px;
+  z-index: 9999;
+}
+
+/*mobile*/
+
+#seoManualContent .container .row .col-md-6 .popular-destinations .gallery {
+  padding-left: 0 !important;
+}
+
+#seoManualContent #popularDestinations .goeuro-table4 tbody tr {
+  background: #ffffff !important;
+  height: 53px !important;
+  width: 300px;
+}
+
+#seoManualContent #popularDestinations .goeuro-table4 > tbody > tr > td {
+  vertical-align: middle !important;
+  padding-top: 14px !important;
+  padding-bottom: 15px !important;
+  text-align: left;
+  white-space: nowrap;
+  padding-left: 2%;
+  padding-right: 16px !important;
+}
+
+#seoManualContent #popularDestinations .goeuro-table4 tbody tr:first-child {
+  border-top: hidden !important;
+}
+
+#seoManualContent #popularDestinations .goeuro-table4 tbody tr:last-child {
+  border-bottom: hidden !important;
+}
+
+#seoManualContent
+  #popularDestinations
+  .goeuro-table4
+  tbody
+  tr:hover
+  td
+  .hover-link {
+  background: #f9f9fa;
+  color: #fa6b6b;
+}
+
+#seoManualContent #popularDestinations .goeuro-table4 tbody tr a {
+  color: #fa6b6b;
+  font-size: 14px;
+}
+
+#seoManualContent #popularDestinations .goeuro-table4 tbody tr:hover {
+  background: #f9f9fa;
+  color: #fa6b6b;
+}
+
+#seoManualContent #popularDestinations .gallery .gallery-thumbnail,
+.popular-destinations .gallery .gallery-thumbnail {
+  height: 264px !important;
+  border-radius: 8px;
+  background-color: #132968;
+  box-shadow: inset 0 -1px 0 0 rgba(0, 0, 0, 0.1),
+    0 2px 5px 0 rgba(51, 51, 51, 0.2);
+  /* transition: box-shadow 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out !important; */
+}
+
+#seoManualContent
+  #popularDestinations
+  .popular-destinations
+  .gallery
+  .gallery-thumbnail
+  .overlay,
+#seoManualContent
+  #popularDestinations
+  .popular-destinations
+  .gallery
+  .gallery-thumbnail
+  .overlay2 {
+  background-color: rgba(0, 0, 0, 0.3) !important;
+  border-radius: inherit;
+  display: inline-block !important;
+  padding: 6px 30px;
+  margin-top: 12px;
+}
+
+#seoManualContent
+  #popularDestinations
+  .popular-destinations
+  .gallery
+  .gallery-thumbnail
+  .overlay2
+  .thumbnail-title {
+  text-align: center;
+  font-weight: bold;
+  font-size: 24px;
+  display: grid;
+  color: #ffffff;
+  padding-bottom: 6%;
+}
+
+#seoManualContent
+  #popularDestinations
+  .popular-destinations
+  .gallery
+  .gallery-thumbnail
+  .overlay2
+  .thumbnail-subtitle {
+  font-size: 20px;
+}
+
+#seoManualContent
+  #popularDestinations
+  .popular-destinations
+  .gallery
+  .gallery-thumbnail
+  .overlay2
+  .discover-button {
+  transition: opacity 0.12s ease;
+  background-color: #fa6b6b;
+  color: #fff;
+  border-radius: 8px;
+  box-shadow: inset 0 -1px 0 0 rgba(0, 0, 0, 0.1) !important;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: center;
+  padding: 8px 23px;
+}
+
+#seoManualContent #popularDestinations .goeuro-table4 tbody tr:hover {
+  background-color: #f9f9fa !important;
+  border-radius: 8px;
+}
+
+#seoManualContent #popularDestinations .goeuro-table4 tbody tr td:first-child {
+  padding-right: 16px;
+}
+
+#seoManualContent #popularDestinations .goeuro-table4 tbody tr td:last-child {
+  padding-left: 16px !important;
+  text-align: right !important;
+}
+
+#seoManualContent p {
+  color: #425486;
+  text-align: left;
+  font-size: 16px;
+  line-height: 24px;
+}
+#seoManualContent #leadership {
+  display: none !important;
+}
+
+#seoManualContent #leadership .col-md-10 .row {
+  margin-left: -15px;
+}
+
+#seoManualContent #leadership .col-md-10,
+#seoManualContent #leadership .col-md-10 .col-sm-6 {
+  padding-right: 0;
+}
+
+#seoManualContent #who-we-are p,
+#seoManualContent #fast-facts p,
+#seoManualContent #team p,
+#seoManualContent #history p {
+  text-align: left;
+}
+
+#seoManualContent #who-we-are .paragraph {
+  margin-bottom: 48px;
+}
+
+#seoManualContent a,
+#seoManualContent a:active,
+#seoManualContent a:link,
+#seoManualContent a:visited {
+  color: #fa6b6b;
+  outline: 0;
+}
+
+#seoManualContent
+  #popularDestinations
+  .popular-destinations
+  .gallery
+  .gallery-thumbnail
+  .overlay2 {
+  display: block;
+  top: 0;
+  height: 100%;
+  font-size: 14px;
+  padding-top: 18%;
+  padding-left: 20% !important;
+  padding-right: 20% !important;
+  cursor: pointer;
+  background-color: rgba(0, 0, 0, 0.3) !important;
+  border-radius: inherit;
+}
+
+#seoManualContent .container .row .page-thumb-teaser:first-child {
+  margin-top: 60px;
+}
+
+#seoManualContent .container .row .page-thumb-teaser:last-child {
+  margin-top: 40px;
+}
+
+#seoManualContent .container .row .page-thumb-teaser {
+  padding: 0 !important;
+}
+
+@media only screen and (min-width: 768px) {
+  #seoManualContent .container .row .page-thumb-teaser:first-child {
+    margin-top: 100px;
+    padding-right: 40px !important;
+  }
+
+  #seoManualContent .container .row .page-thumb-teaser:last-child {
+    margin-top: 100px;
+    padding-left: 40px !important;
+  }
+
+  #seoManualContent .container {
+    width: 100%;
+    max-width: 1170px;
+  }
+}
+
+/*deskop*/
+@media only screen and (min-width: 1224px) {
+  #seoManualContent .container .row .page-thumb-teaser:first-child {
+    margin-top: 100px;
+    padding-left: 100px !important;
+    padding-right: 40px !important;
+  }
+
+  #seoManualContent .container .row .page-thumb-teaser:last-child {
+    margin-top: 100px;
+    padding-left: 40px !important;
+    padding-right: 100px !important;
+  }
+
+  #seoManualContent .container .row .page-thumb-teaser h2:first-child,
+  #seoManualContent .container .row .page-thumb-teaser h3:first-child,
+  #seoManualContent .container .row .page-thumb-teaser h4:first-child {
+    margin-top: 0px !important;
+  }
+
+  #seoManualContent .container .row .page-thumb-teaser p {
+    padding-left: 0px !important;
+  }
+
+  #seoManualContent .container .row .page-thumb-teaser div .gallery-thumbnail {
+    max-width: 445px;
+  }
+
+  #seoManualContent
+    .container
+    .row
+    .page-thumb-teaser
+    div
+    .gallery-thumbnail
+    .overlay2 {
+    max-width: 445px;
+  }
+
+  #seoManualContent .goeuro-table4 > tbody > tr > td {
+    padding-left: 6%;
+  }
+
+  #popularDestinations p {
+    padding-left: 15px;
+    padding-right: 0;
+  }
+
+  #seoManualContent
+    #popularDestinations
+    .popular-destinations
+    .gallery
+    .gallery-thumbnail
+    .overlay2 {
+    /* display: block; */
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 264px;
+    text-align: center;
+    color: #fff !important;
+    transition: all 0.15s ease-in-out !important;
+    padding-top: 80px;
+    cursor: pointer !important;
+    border-radius: 8px !important;
+  }
+
+  #seoManualContent
+    #popularDestinations
+    .popular-destinations
+    .gallery
+    .gallery-thumbnail
+    .overlay2
+    .thumbnail-title {
+    font-size: 24px;
+    line-height: 1.3;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0%;
+    padding-bottom: 0%;
+  }
+
+  #seoManualContent
+    #popularDestinations
+    .popular-destinations
+    .gallery
+    .gallery-thumbnail
+    .overlay2:focus,
+  #seoManualContent
+    #popularDestinations
+    .popular-destinations
+    .gallery
+    .gallery-thumbnail
+    .overlay2:hover {
+    background-color: rgba(0, 0, 0, 0.5) !important;
+    padding-top: 68px;
+    text-decoration: none;
+  }
+
+  #seoManualContent
+    #popularDestinations
+    .popular-destinations
+    .gallery
+    .gallery-thumbnail
+    .overlay2
+    .thumbnail-subtitle,
+  #seoManualContent
+    #popularDestinations.popular-destinations
+    .gallery
+    .gallery-thumbnail
+    .overlay2
+    .thumbnail-title {
+    display: block;
+    font-size: 20px;
+  }
+
+  #seoManualContent
+    #popularDestinations
+    .popular-destinations
+    .gallery
+    .gallery-thumbnail
+    .overlay2:focus
+    .discover-button,
+  #seoManualContent
+    #popularDestinations
+    .popular-destinations
+    .gallery
+    .gallery-thumbnail
+    .overlay2:hover
+    .discover-button {
+    opacity: 1;
+  }
+
+  #seoManualContent
+    #popularDestinations
+    .popular-destinations
+    .gallery
+    .gallery-thumbnail
+    .overlay2
+    .discover-button {
+    opacity: 0;
+    display: inline-block;
+    padding: 8px 30px;
+    margin-top: 12px;
+    font-weight: 600;
+    transition: opacity 0.12s ease;
+    background-color: #fa6b6b;
+    color: #fff;
+    border-radius: inherit;
+    width: 230px;
+    height: 45px;
+  }
+
+  #seoManualContent a {
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  #seoManualContent p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+
+  #seoManualContent h3 {
+    margin-bottom: 23px;
+    line-height: 1.5;
+  }
+
+  #seoManualContent #popularDestinations .gallery .gallery-thumbnail,
+  .popular-destinations .gallery .gallery-thumbnail {
+    height: 264px !important;
+    border-radius: 8px;
+    background-color: #132970;
+    transition: box-shadow 0.15s ease-in-out,
+      -webkit-box-shadow 0.15s ease-in-out;
+  }
+
+  #seoManualContent .gallery {
+    width: inherit;
+  }
+
+  #seoManualContent #popularDestinations .popular-destinations {
+    /* width: 432px; */
+    /* padding-left: 9px; */
+    border-radius: 8px;
+  }
+
+  /* disabling temporarily
+#seoManualContent .container {
+width: 970px !important;
+}
+*/
+  #seoManualContent
+    #popularDestinations
+    .goeuro-table4
+    > tbody
+    > tr
+    > td:nth-last-child {
+    text-align: right;
+  }
+}
+
+/*end*/
+/*simple-table*/
+
+/*connection table*/
+#seoManualContent .goeuro-table > thead > tr:first-child {
+  text-align: left !important;
+  font-weight: 200 !important;
+  text-transform: uppercase;
+  background-color: #f1f2f6;
+  font-size: 12px;
+  white-space: nowrap;
+  height: 56px;
+  letter-spacing: 1.2px;
+  line-height: 16px;
+  border-bottom: hidden;
+  border-radius: 8px 8px 0 0;
+  margin-bottom: 0px;
+}
+
+#seoManualContent .goeuro-table > thead th p {
+  color: #a1a9c3 !important;
+  text-align: left !important;
+  vertical-align: bottom;
+  margin-bottom: 0px;
+}
+
+#seoManualContent .goeuro-table > tbody tr p {
+  text-align: left !important;
+}
+
+#seoManualContent .goeuro-table > tbody > tr {
+  height: 56px;
+}
+
+#seoManualContent .goeuro-table tr td {
+  font-size: 16px;
+  text-align: left !important;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  vertical-align: middle;
+  color: #425486;
+  white-space: inherit;
+  padding-left: 20px;
+}
+
+#seoManualContent .goeuro-table tr:hover {
+  background-color: #f9f9fa;
+}
+
+#seoManualContent .goeuro-table th {
+  background-color: #f1f2f6 !important;
+}
+
+#seoManualContent .goeuro-table td {
+  font-size: 12px;
+  height: 30px;
+  cursor: default;
+}
+
+#seoManualContent .goeuro-table > thead th {
+  padding: 15px !important;
+  vertical-align: bottom;
+}
+
+#seoManualContent .goeuro-table {
+  width: 100%;
+}
+
+#seoManualContent .goeuro-table td {
+  height: 40px;
+  border-bottom: 1px solid #eee;
+}
+
+#seoManualContent .goeuro-table td {
+  border-left: none;
+}
+
+#seoManualContent .goeuro-table tr:hover {
+  background-color: #f8f8f8;
+}
+
+#seoManualContent .goeuro-table tr:hover {
+  background-color: #f8f8f8;
+}
+
+@media only screen and (min-width: 1224px) {
+  #seoManualContent table.goeuro-table {
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+  }
+}
+
+/*sample results table*/
+
+#seoManualContent .orange-button {
+  text-align: center;
+  padding: 10px;
+  font-weight: 500;
+  background: #fa6b6b;
+  color: #fff;
+  outline: 0;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  line-height: 1.2;
+  position: relative;
+}
+
+#seoManualContent .orange-button:hover {
+  background: #f06767;
+}
+
+#seoManualContent .orange-button {
+  min-width: 130px;
+  min-height: 35px;
+  margin: 2px auto 0;
+}
+
+
+/*app banner*/
+.tag-line p {
+  color: #ffffff !important;
+  text-align: left !important;
+}
+
+#seoManualContent .mobile-app-hero {
+  background-color: #425486;
+  padding-top: 10%;
+  padding-bottom: 15%;
+  padding-left: 5%;
+  padding-right: 5%;
+  border-radius: 8px;
+  width: 288px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#seoManualContent .mobile-app-hero h2 {
+  height: 76px;
+  width: 256px;
+  color: #ffffff !important;
+  font-size: 32px !important;
+  font-weight: bold !important;
+  line-height: 38px !important;
+  margin-left: 0px !important;
+  margin-top: 15px !important;
+}
+
+#seoManualContent .mobile-img .col-xs-6.col-sm-4.col-md-4 {
+  height: 230px !important;
+  width: 230px !important;
+}
+
+#seoManualContent .mobile-img .col-xs-6 {
+  width: 90% !important;
+}
+
+#seoManualContent .mobile-app-hero .col-xs-6 {
+  width: 100%;
+}
+
+#seoManualContent .mobile-app-hero .col-xs-6 img {
+  height: 230px;
+  width: 230px;
+}
+
+#seoManualContent .badges .col-xs-6 {
+  width: 50%;
+}
+
+#seoManualContent .mobile-app-hero p.hidden-xs {
+  visibility: visible !important;
+}
+
+#seoManualContent .badges img {
+  height: 40px !important;
+  width: 114px !important;
+  margin-left: 0 !important;
+}
+
+#seoManualContent .col-xs-12.col-sm-4.col-md-4 .badges {
+  padding-top: 20px !important;
+}
+
+.app-btn.apple-badge.col-xs-6 {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.app-btn.google-badge.col-xs-6 {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+@media only screen and (min-width: 1224px) {
+  #seoManualContent .mobile-app-hero .col-xs-6 {
+    width: 50%;
+  }
+
+  #seoManualContent .mobile-app-hero h2 {
+    width: 100%;
+    height: 20%;
+  }
+
+  #seoManualContent .mobile-app-hero .col-xs-6 img {
+    height: 251px;
+    width: 252px;
+  }
+
+  #seoManualContent .mobile-app-hero .col-xs-6 img {
+    margin-left: 25%;
+  }
+
+  #seoManualContent.mobile-img img {
+    width: 251px;
+  }
+
+  #seoManualContent .mobile-app-hero {
+    background-color: #425486;
+    padding: 35px;
+    width: 1136px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+    /* box-shadow: inset 0 -1px 0 0 rgba(0, 0, 0, 0.1), 0 2px 5px 0 rgba(51, 51, 51, 0.2); */
+    height: 368px;
+  }
+
+  #seoManualContent .badges img {
+    height: 42px;
+    width: 128px;
+  }
+
+  #seoManualContent .badges .col-xs-6 {
+    width: 37%;
+  }
+}
+
+/*provider usp*/
+#seoManualContent
+  .col-xs-offset-1.col-xs-10.col-md-offset-2.col-md-8.page-thumb-teaser.text-center {
+  border-radius: 8px;
+  margin-left: 0% !important;
+  width: 100% !important;
+  text-align: left !important;
+}
+
+#seoManualContent .col-xs-12.col-md-12.page-thumb-teaser.text-center {
+  text-align: left !important;
+}
+
+#seoManualContent h3 {
+  color: #132968;
+  font-size: 26px;
+  font-weight: bold;
+  line-height: 30px;
+}
+
+#seoManualContent .text-center span {
+  color: #425486 !important;
+  font-size: 16px !important;
+  line-height: 24px !important;
+  display: inline-block;
+}
+
+#seoManualContent
+  .col-xs-offset-1.col-xs-10.col-md-offset-2.col-md-8.page-thumb-teaser.text-center {
+  margin-top: 60px;
+}
+
+#seoManualContent .col-md-12.page-thumb-teaser.text-center {
+  padding-left: 15px !important;
+  padding-right: 15px !important;
+  margin-top: 0 !important;
+}
+
+#seoManualContent .col-md-12.page-thumb-teaser.text-center img {
+  display: block;
+  margin-bottom: 35px !important;
+}
+
+#seoManualContent .col-md-12.page-thumb-teaser.text-center img:first-child {
+  margin-top: 45px;
+}
+
+@media only screen and (min-width: 1224px) {
+  #seoManualContent .col-md-12.page-thumb-teaser.text-center img {
+    display: inline-block;
+    margin-bottom: 0 !important;
+  }
+
+  #seoManualContent .col-md-12.page-thumb-teaser.text-center img:first-child {
+    margin-top: 0px;
+  }
+
+  #seoManualContent .col-md-12.page-thumb-teaser.text-center {
+    padding-left: 0;
+    margin-top: 26px !important;
+  }
+
+  #seoManualContent
+    .col-xs-offset-1.col-xs-10.col-md-offset-2.col-md-8.page-thumb-teaser.text-center
+    h3 {
+    margin-top: 0 !important;
+    /* margin-bottom: 0!important; */
+  }
+
+  /*
+#seoManualContent .col-xs-offset-1.col-xs-10.col-md-offset-2.col-md-8.page-thumb-teaser.text-center .col-md-12 {
+margin-top: 34.5px;
+}*/
+
+  #seoManualContent
+    .col-xs-offset-1.col-xs-10.col-md-offset-2.col-md-8.page-thumb-teaser.text-center {
+    display: table;
+    max-width: 945px;
+    margin-top: 80px !important;
+    margin-bottom: 30px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding-top: 64px;
+    padding-bottom: 44px;
+    float: none !important;
+    padding-left: 96px !important;
+    padding-right: 96px !important;
+  }
+}
+
+/*carousel*/
+#seoManualContent .popular-destinations .container {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.popular-destinations {
+  overflow: hidden;
+}
+
+.popular-destinations .container .gallery {
+  margin-top: 60px;
+  overflow: hidden !important;
+  font-size: 0;
+  position: relative;
+  white-space: nowrap;
+}
+
+.popular-destinations .container .gallery .gallery-thumbnail {
+  background: center center no-repeat;
+  background-size: cover;
+  position: relative;
+  display: inline-block;
+  width: 100%;
+  transition: margin-left 0.3s ease-in-out !important;
+  cursor: pointer;
+}
+
+.popular-destinations .container .gallery .gallery-thumbnail .overlay,
+.popular-destinations .container .gallery .gallery-thumbnail .overlay2 {
+  display: block;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: 14px;
+  color: #fff !important;
+  transition: all 0.13s ease-in-out;
+  padding-top: 75px;
+  background-color: rgba(0, 0, 0, 0.3) !important;
+  cursor: pointer;
+  border-radius: inherit;
+}
+
+#seoManualContent
+  .popular-destinations
+  .container
+  .gallery
+  .gallery-thumbnail
+  .overlay
+  span.thumbnail-title {
+  font-weight: bold;
+  font-size: 24px;
+  display: grid;
+  color: #ffffff;
+  padding-bottom: 6%;
+}
+
+#seoManualContent
+  .popular-destinations
+  .container
+  .gallery
+  .gallery-thumbnail
+  .overlay
+  span.thumbnail-subtitle {
+  font-size: 20px;
+}
+
+#seoManualContent
+  .popular-destinations
+  .container
+  .gallery
+  .gallery-thumbnail
+  .overlay
+  .discover-button {
+  transition: opacity 0.12s ease;
+  background-color: #fa6b6b;
+  color: #fff;
+  border-radius: 8px;
+  box-shadow: inset 0 -1px 0 0 rgba(0, 0, 0, 0.1) !important;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: center;
+  padding: 8px 23px;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media only screen and (min-width: 768px) {
+  #seoManualContent
+    .popular-destinations
+    .container
+    .gallery
+    .gallery-thumbnail
+    .overlay,
+  #seoManualContent
+    .popular-destinations
+    .container
+    .gallery
+    .gallery-thumbnail
+    .overlay2 {
+    display: block;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    font-size: 14px;
+    color: #fff !important;
+    transition: all 0.13s ease-in-out;
+    padding-top: 100px;
+    background-color: rgba(0, 0, 0, 0.3) !important;
+    cursor: pointer;
+    border-radius: inherit;
+  }
+
+  #seoManualContent
+    .popular-destinations
+    .container
+    .gallery
+    .gallery-thumbnail
+    .overlay:hover,
+  #seoManualContent
+    .popular-destinations
+    .container
+    .gallery
+    .gallery-thumbnail
+    .overlay2:hover {
+    display: block;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    font-size: 14px;
+    color: #fff !important;
+    transition: all 0.13s ease-in-out;
+    padding-top: 70px;
+    background-color: rgba(0, 0, 0, 0.3) !important;
+    cursor: pointer;
+    border-radius: inherit;
+  }
+
+  #seoManualContent
+    .popular-destinations
+    .container
+    .gallery
+    .gallery-thumbnail
+    .overlay:hover
+    .discover-button {
+    display: block;
+    transition: opacity 0.12s ease;
+    background-color: #fa6b6b;
+    color: #fff;
+    border-radius: 8px;
+    box-shadow: inset 0 -1px 0 0 rgba(0, 0, 0, 0.1) !important;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: center;
+    padding: 8px 23px;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #seoManualContent
+    .popular-destinations
+    .container
+    .gallery
+    .gallery-thumbnail
+    .overlay
+    .discover-button {
+    display: none;
+  }
+
+  #seoManualContent
+    #popularDestinations
+    .popular-destinations
+    .container
+    .gallery
+    .nav::before {
+    display: block;
+    height: 16px !important;
+    width: 16px !important;
+    border: solid #a1a9c3;
+    border-width: 2px 2px 0 0;
+    content: "";
+    -webkit-transform: rotate(225deg);
+    -moz-transform: rotate(225deg);
+    -o-transform: rotate(225deg);
+    -ms-transform: rotate(225deg);
+    transform: rotate(225deg);
+    position: absolute;
+    top: 50%;
+    left: 20px;
+    margin-top: -15px;
+    transition: left 0.12s ease;
+  }
+
+  #seoManualContent
+    #popularDestinations
+    .popular-destinations
+    .container
+    .gallery
+    .nav.next {
+    right: 0;
+    -webkit-transform: scaleX(-1);
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    -ms-transform: scaleX(-1);
+    transform: scaleX(-1);
+  }
+}
+
+#seoManualContent
+  #popularDestinations
+  .popular-destinations
+  .container
+  .gallery
+  .nav {
+  position: absolute;
+  height: 30px;
+  bottom: -54px;
+  width: 30px;
+  top: 281px;
+  transition: opacity 0.12s ease;
+  cursor: pointer;
+}
+
+#seoManualContent
+  #popularDestinations
+  .popular-destinations
+  .container
+  .gallery
+  .nav::before {
+  display: block;
+  height: 13px;
+  width: 13px;
+  border: solid #a1a9c3;
+  border-width: 2px 2px 0 0;
+  content: "";
+  -webkit-transform: rotate(225deg);
+  -moz-transform: rotate(225deg);
+  -o-transform: rotate(225deg);
+  -ms-transform: rotate(225deg);
+  transform: rotate(225deg);
+  position: absolute;
+  top: 50%;
+  left: 20px;
+  margin-top: -15px;
+  transition: left 0.12s ease;
+}
+
+#seoManualContent
+  #popularDestinations
+  .popular-destinations
+  .container
+  .gallery
+  .nav.next {
+  right: 0;
+  -webkit-transform: scaleX(-1);
+  -moz-transform: scaleX(-1);
+  -o-transform: scaleX(-1);
+  -ms-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+
+.popular-destinations nav.pagination.pagination-circles {
+  font-size: 0;
+  display: block;
+  margin: 20px;
+  text-align: center;
+}
+
+.popular-destinations nav.pagination.pagination-circles a {
+  border: 1px solid #999;
+  height: 12px;
+  width: 12px;
+  margin-left: 6px;
+  border-radius: 6px;
+  display: inline-block;
+  transition: background-color 0.2s linear;
+  cursor: pointer !important;
+}
+
+.popular-destinations nav.pagination.pagination-circles a {
+  border: 1px solid #e4e8eb;
+  height: 8px;
+  width: 8px;
+  margin-left: 6px;
+  border-radius: 6px;
+  display: inline-block;
+  transition: background-color 0.2s linear;
+  cursor: pointer;
+}
+
+.popular-destinations nav.pagination.pagination-circles a:first-child {
+  margin-left: 0;
+}
+
+.popular-destinations nav.pagination.pagination-circles a.active {
+  background-color: #a1a9c3 !important;
+  cursor: default;
+  border: 1px solid #a1a9c3;
+}
+
+nav.pagination.pagination-circles a {
+  background-color: #e4e8eb !important;
+}
+
+.container-fluid:after,
+.container-fluid:before,
+.container:after,
+.container:before,
+.row:after,
+.row:before {
+  content: "";
+  display: table;
+}
+
+@media only screen and (min-width: 768px) {
+  /* disabling temporarily
+section#popularDestinations {
+width: 1052px;
+margin-right: auto;
+margin-left: auto;
+}
+*/
+  #popularDestinations .popular-destinations .container .gallery .nav {
+    position: absolute;
+    height: 100% !important;
+    bottom: 150px !important;
+    width: 30px !important;
+    bottom: 0 !important;
+    top: 0 !important;
+    transition: opacity 0.12s ease;
+    cursor: pointer;
+  }
+
+  #popularDestinations
+    .popular-destinations
+    .container
+    .gallery
+    .gallery-thumbnail {
+    margin-left: 0%;
+    width: 30.65% !important;
+    display: inline-block;
+    margin-right: 1.45%;
+  }
+
+  #popularDestinations
+    .popular-destinations
+    .container
+    .gallery
+    .gallery-thumbnail:nth-child(4) {
+    margin-left: 3.7% !important;
+  }
+
+  #popularDestinations .popular-destinations .container .gallery {
+    padding-left: 5.1%;
+    overflow: hidden !important;
+    margin-top: 100px;
+  }
+
+  #popularDestinations .popular-destinations .container .gallery .previous {
+    opacity: 0.5;
+    width: 4.9%;
+    background-color: white;
+    left: 0px;
+  }
+
+  #popularDestinations .popular-destinations .container .gallery .next {
+    opacity: 0.5;
+    width: 4.9% !important;
+    right: -1px !important;
+    background-color: white;
+  }
+
+  /* disabling temporarily
+#popularDestinations .popular-destinations .container .gallery {
+width:1052px;
+}
+*/
+}
+
+/* image grid with LP */
+
+#seoManualContent #popularDestinations .gallery .grid:first-child,
+.popular-destinations .gallery .grid:first-child {
+  float: left;
+}
+
+#popularDestinations .popular-destinations .gallery {
+  max-width: 100%;
+  min-width: 100%;
+  /* border-image-width: 0px; */
+  /* border: none; */
+  display: block;
+  position: relative;
+  /* padding-left: 5.1%; */
+  overflow: visible !important;
+  white-space: nowrap;
+  /* min-height: 400px; */
+}
+
+#popularDestinations .popular-destinations .gallery .grid {
+  display: inline-block;
+}
+
+#seoManualContent #popularDestinations .gallery .grid,
+.popular-destinations .gallery .grid {
+  height: 264px !important;
+  border-radius: 8px;
+  background-color: #132968;
+  box-shadow: inset 0 -1px 0 0 rgba(0, 0, 0, 0.1),
+    0 2px 5px 0 rgba(51, 51, 51, 0.2);
+  /* transition: box-shadow 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out !important; */
+  background: center center no-repeat;
+  background-size: cover;
+  position: relative;
+  padding: 0;
+  border: none;
+  min-width: 100%;
+  max-width: 100%;
+  margin-top: 60px;
+  float: initial;
+}
+
+#seoManualContent
+  #popularDestinations
+  .popular-destinations
+  .gallery
+  .grid
+  .overlay,
+#seoManualContent
+  #popularDestinations
+  .popular-destinations
+  .gallery
+  .grid
+  .overlay2 {
+  background-color: rgba(0, 0, 0, 0.3) !important;
+  border-radius: inherit;
+  display: inline-block !important;
+  padding: 6px 30px !important;
+  margin-top: 12px !important;
+}
+
+#seoManualContent
+  #popularDestinations
+  .popular-destinations
+  .gallery
+  .grid
+  .overlay2
+  .thumbnail-title {
+  text-align: center;
+  font-weight: bold;
+  font-size: 24px;
+  display: grid;
+  color: #ffffff;
+  padding-bottom: 6%;
+}
+
+#seoManualContent
+  #popularDestinations
+  .popular-destinations
+  .gallery
+  .grid
+  .overlay2
+  .thumbnail-subtitle {
+  font-size: 20px;
+}
+
+#seoManualContent
+  #popularDestinations
+  .popular-destinations
+  .gallery
+  .grid
+  .overlay2
+  .discover-button {
+  transition: opacity 0.12s ease;
+  background-color: #fa6b6b;
+  color: #fff;
+  border-radius: 8px;
+  box-shadow: inset 0 -1px 0 0 rgba(0, 0, 0, 0.1) !important;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: center;
+  padding: 8px 23px;
+}
+
+#seoManualContent
+  #popularDestinations
+  .popular-destinations
+  .gallery
+  .grid
+  .overlay2 {
+  display: block;
+  top: 0;
+  height: 100%;
+  font-size: 14px;
+  padding-top: 18%;
+  padding-left: 20% !important;
+  padding-right: 20% !important;
+  cursor: pointer;
+  background-color: rgba(0, 0, 0, 0.3) !important;
+  border-radius: inherit;
+}
+
+#seoManualContent #popularDestinations .popular-destinations .gallery .nav {
+  position: absolute;
+  height: 30px;
+  bottom: -46px;
+  width: 30px;
+  /* top: 0px!important; */
+  transition: opacity 0.12s ease;
+  cursor: pointer;
+  /* position: absolute; */
+  /* height: 100%!important; */
+  /* width: 4.9%!important; */
+  /* top: 0!important; */
+  transition: opacity 0.12s ease;
+  /* cursor: pointer; */
+  /* float: initial; */
+}
+
+#seoManualContent
+  #popularDestinations
+  .popular-destinations
+  .gallery
+  .nav::before {
+  display: block;
+  height: 16px !important;
+  width: 16px !important;
+  border: solid #a1a9c3;
+  border-width: 2px 2px 0 0;
+  content: "";
+  -webkit-transform: rotate(225deg);
+  -moz-transform: rotate(225deg);
+  -o-transform: rotate(225deg);
+  -ms-transform: rotate(225deg);
+  transform: rotate(225deg);
+  position: absolute;
+  top: 50%;
+  left: 20px;
+  margin-top: -15px;
+  transition: left 0.12s ease;
+}
+
+#seoManualContent
+  #popularDestinations
+  .popular-destinations
+  .gallery
+  .nav.next {
+  right: 0;
+  -webkit-transform: scaleX(-1);
+  -moz-transform: scaleX(-1);
+  -o-transform: scaleX(-1);
+  -ms-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+
+#seoManualContent #popularDestinations .popular-destinations .gallery .nav {
+  position: absolute;
+  height: 30px;
+  bottom: -46px;
+  width: 4.9%;
+  /* top: 62px; */
+  transition: opacity 0.12s ease;
+  cursor: pointer;
+}
+
+#seoManualContent
+  #popularDestinations
+  .popular-destinations
+  .gallery
+  .nav::before {
+  display: block;
+  height: 13px;
+  width: 13px;
+  border: solid #a1a9c3;
+  border-width: 2px 2px 0 0;
+  content: "";
+  -webkit-transform: rotate(225deg);
+  -moz-transform: rotate(225deg);
+  -o-transform: rotate(225deg);
+  -ms-transform: rotate(225deg);
+  transform: rotate(225deg);
+  position: absolute;
+  top: 50%;
+  left: 20px;
+  margin-top: -15px;
+  transition: left 0.12s ease;
+}
+
+#seoManualContent
+  #popularDestinations
+  .popular-destinations
+  .gallery
+  .nav.next {
+  right: 0;
+  -webkit-transform: scaleX(-1);
+  -moz-transform: scaleX(-1);
+  -o-transform: scaleX(-1);
+  -ms-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+
+@media only screen and (min-width: 1224px) {
+  #seoManualContent .container .row .page-thumb-teaser div .grid {
+    max-width: 445px;
+  }
+
+  #seoManualContent .container .row .page-thumb-teaser div .grid .overlay2 {
+    max-width: 445px;
+  }
+
+  #seoManualContent
+    #popularDestinations
+    .popular-destinations
+    .gallery
+    .grid
+    .overlay2 {
+    border-radius: 8px !important;
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    min-width: 100%;
+    height: 264px;
+    text-align: center;
+    color: #fff !important;
+    transition: margin-lef 0.15s ease-in-out;
+    padding-top: 80px;
+    cursor: pointer !important;
+    border-radius: 8px !important;
+  }
+
+  #seoManualContent
+    #popularDestinations
+    .popular-destinations
+    .gallery
+    .grid
+    .overlay2
+    .thumbnail-title {
+    font-size: 24px;
+    line-height: 1.3;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0%;
+    padding-right: 0%;
+    padding-bottom: 0%;
+  }
+
+  #seoManualContent
+    #popularDestinations
+    .popular-destinations
+    .gallery
+    .grid
+    .overlay2:focus,
+  #seoManualContent
+    #popularDestinations
+    .popular-destinations
+    .gallery
+    .grid
+    .overlay2:hover {
+    background-color: rgba(0, 0, 0, 0.5) !important;
+    padding-top: 68px;
+    text-decoration: none;
+  }
+
+  #seoManualContent
+    #popularDestinations
+    .popular-destinations
+    .gallery
+    .grid
+    .overlay2
+    .thumbnail-subtitle,
+  #seoManualContent
+    #popularDestinations.popular-destinations
+    .gallery
+    .grid
+    .overlay2
+    .thumbnail-title {
+    font-size: 20px;
+    display: block;
+  }
+
+  #seoManualContent
+    #popularDestinations
+    .popular-destinations
+    .gallery
+    .grid
+    .overlay2:focus
+    .discover-button,
+  #seoManualContent
+    #popularDestinations
+    .popular-destinations
+    .gallery
+    .grid
+    .overlay2:hover
+    .discover-button {
+    opacity: 1;
+  }
+
+  #seoManualContent
+    #popularDestinations
+    .popular-destinations
+    .gallery
+    .grid
+    .overlay2
+    .discover-button {
+    opacity: 0;
+    display: inline-block;
+    padding: 8px 30px;
+    margin-top: 12px;
+    font-weight: 600;
+    transition: opacity 0.12s ease;
+    background-color: #fa6b6b;
+    color: #fff;
+    border-radius: inherit;
+    width: 230px;
+    height: 45px;
+  }
+
+  #seoManualContent #popularDestinations .gallery .grid,
+  .popular-destinations .gallery .grid {
+    min-width: 30.65% !important;
+    height: 264px !important;
+    border-radius: 8px;
+    background-color: #132970;
+    transition: box-shadow 0.15s ease-in-out,
+      -webkit-box-shadow 0.15s ease-in-out;
+    background-size: auto 100%;
+    background: center center no-repeat;
+    background-size: cover;
+    position: relative;
+    margin-top: 100px;
+    float: left;
+  }
+}
+
+.popular-destinations .container .gallery .grid {
+  background: center center no-repeat;
+  background-size: cover;
+  position: relative;
+  display: inline-block;
+  width: 100%;
+  transition: margin-left 0.3s ease-in-out !important;
+  cursor: pointer;
+}
+
+.popular-destinations .gallery .grid .overlay,
+.popular-destinations .gallery .grid .overlay2 {
+  display: block;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: 14px;
+  color: #fff !important;
+  transition: all 0.13s ease-in-out;
+  padding-top: 75px;
+  background-color: rgba(0, 0, 0, 0.3) !important;
+  cursor: pointer;
+  border-radius: inherit;
+}
+
+#seoManualContent
+  .popular-destinations
+  .gallery
+  .grid
+  .overlay
+  span.thumbnail-title {
+  font-weight: bold;
+  font-size: 24px;
+  display: grid;
+  color: #ffffff;
+  padding-bottom: 6%;
+}
+
+#seoManualContent
+  .popular-destinations
+  .gallery
+  .grid
+  .overlay
+  span
+  .thumbnail-subtitle {
+  font-size: 20px;
+}
+
+#seoManualContent
+  .popular-destinations
+  .gallery
+  .grid
+  .overlay
+  .discover-button {
+  transition: opacity 0.12s ease;
+  background-color: #fa6b6b;
+  color: #fff;
+  border-radius: 8px;
+  box-shadow: inset 0 -1px 0 0 rgba(0, 0, 0, 0.1) !important;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: center;
+  padding: 8px 23px;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media only screen and (min-width: 768px) {
+  #popularDestinations .popular-destinations .gallery {
+    display: inline-block;
+    width: 100%;
+    padding-left: 5.1%;
+  }
+
+  #seoManualContent .popular-destinations .gallery .grid .overlay,
+  #seoManualContent .popular-destinations .gallery .grid .overlay2 {
+    display: block;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    font-size: 14px;
+    color: #fff !important;
+    transition: all 0.13s ease-in-out;
+    padding-top: 100px;
+    background-color: rgba(0, 0, 0, 0.3) !important;
+    cursor: pointer;
+    border-radius: inherit;
+  }
+
+  #seoManualContent .popular-destinations .gallery .grid .overlay:hover,
+  #seoManualContent .popular-destinations .gallery .grid .overlay2:hover {
+    display: block;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    font-size: 14px;
+    color: #fff !important;
+    transition: all 0.13s ease-in-out;
+    padding-top: 70px;
+    background-color: rgba(0, 0, 0, 0.3) !important;
+    cursor: pointer;
+    border-radius: inherit;
+  }
+
+  #seoManualContent
+    .popular-destinations
+    .gallery
+    .grid
+    .overlay:hover
+    .discover-button {
+    display: block;
+    transition: opacity 0.12s ease;
+    background-color: #fa6b6b;
+    color: #fff;
+    border-radius: 8px;
+    box-shadow: inset 0 -1px 0 0 rgba(0, 0, 0, 0.1) !important;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: center;
+    padding: 8px 23px;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #seoManualContent
+    .popular-destinations
+    .gallery
+    .grid
+    .overlay
+    .discover-button {
+    display: none;
+  }
+
+  #popularDestinations .popular-destinations .gallery .grid {
+    margin-left: 0%;
+    max-width: 30.65% !important;
+    display: inline-block;
+    margin-right: 1.45%;
+  }
+
+  #popularDestinations
+    .popular-destinations
+    .container
+    .gallery
+    .grid:nth-child(4) {
+    margin-left: 3.8% !important;
+  }
+}
+
+/*provider-table*/
+.cn .inner {
+  padding-bottom: 32px !important;
+}
+
+.cn {
+  margin-bottom: 10%;
+}
+
+.bottom-grey-line {
+  border-bottom: 1px solid #e4e8eb;
+  padding: 5%;
+}
+
+.col-md-2.col-sm-12.col-xs-12.inner {
+  padding-top: 5%;
+}
+
+@media only screen and (min-width: 1224px) {
+  .col-md-2.col-sm-12.col-xs-12.inner {
+    width: 17.66667% !important;
+  }
+
+  .col-md-2.col-sm-12.col-xs-12.inner {
+    padding-top: 3%;
+    padding-bottom: 3%;
+    width: 100% !important;
+  }
+
+  .cn .col-md-10.col-sm-12.col-xs-12 {
+    width: 100% !important;
+  }
+
+  .bottom-grey-line {
+    border-bottom: 1px solid #e4e8eb;
+    padding: 2%;
+    width: 752px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .cn {
+    width: 753px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+#seoManualContent .mobile-img img {
+  max-height: 60%;
+}
+
+img {
+  border-radius: 8px !important;
+}
+
+/* CORPORATE PAGES STYLING */
+/* GENERAL FOR CORPORATE PAGES */
+
+#seoManualContent .article * {
+  font-size: 16px;
+}
+
+#seoManualContent .col-div {
+  margin: auto;
+}
+
+@media screen and (min-width: 768px) {
+  #seoManualContent .col-div .col-two:first-child {
+    padding-right: 35px !important;
+  }
+
+  #seoManualContent .col-div .col-two:nth-child(2) {
+    padding-left: 35px !important;
+  }
+}
+
+/* GENERAL HEADERS */
+
+#seoManualContent #corporate-header {
+  /* position: relative; */
+}
+
+#seoManualContent .full-width-corporate {
+  background-size: cover;
+  background-position: right;
+  max-width: 100vw !important;
+  position: relative !important;
+  left: 50% !important;
+  right: 50% !important;
+  margin: 0px -50vw !important;
+  text-align: left;
+  background-color: #008080;
+  /* add to new-styling as well!! */
+}
+
+#seoManualContent .full-width-corporate .corporate-page {
+  width: 100%;
+  min-height: 160px;
+  padding: 15px;
+  display: table;
+  position: relative;
+  margin-bottom: -1px;
+}
+
+#seoManualContent .full-width-corporate .corporate-page .corporate-page-title {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+#seoManualContent
+  .full-width-corporate
+  .corporate-page
+  .corporate-page-title
+  h2 {
+  text-align: left;
+  color: white;
+  margin-left: 1%;
+}
+
+@media screen and (min-width: 768px) {
+  #seoManualContent .full-width-corporate .corporate-page {
+    height: 40vh;
+    min-height: 320px;
+    max-width: 1170px;
+    margin: auto;
+    margin-bottom: -2px;
+  }
+
+  #seoManualContent
+    .full-width-corporate
+    .corporate-page
+    .corporate-page-title
+    h1 {
+    font-size: 56px;
+    padding-left: 2%;
+  }
+}
+
+/* END OF HEADER */
+/*
+#seoManualContent header.full-width {
+display: block;
+background-image: url(https://cdn-goeuro.com/static_content/web/content/rest/rebranded_headers/corporate-about-dw.png);
+text-align: center;
+min-width: 100vw;
+position: relative;
+left: 50%;
+right: 50%;
+margin: 0px -50vw;
+padding: 40px 15px;
+height: 320px!important;
+background-position: center;
+background-size: cover;
+}
+#seoManualContent header.full-width .titles {
+background: transparent;
+color: white;
+font-size: 24px;
+font-weight: bold;
+text-align: left;
+}*/
+#seoManualContent .header_2 {
+  margin-top: 56px;
+  font-weight: bold;
+  text-align: center;
+  color: #008080;
+  margin-bottom: 40px;
+  font-size: 30px;
+  line-height: 36px;
+}
+
+#seoManualContent #investors .header_2 {
+  margin-top: 0;
+  padding-top: 16px;
+  font-size: 30px;
+  color: #ffffff;
+  text-align: center;
+  font-weight: bold;
+  line-height: 36px;
+  margin-bottom: 40px;
+}
+
+#seoManualContent #investors .icons-list {
+  margin-top: 40px;
+}
+
+#seoManualContent #investors .icons-list .investor-icon {
+  display: inline-block;
+  margin-right: 24px;
+  margin-bottom: 24px;
+  height: 40px;
+}
+
+#seoManualContent #investors .icons-list .investor-icon img {
+  max-width: 110px;
+  max-height: 40px;
+  border-radius: 0 !important;
+}
+
+@media screen and (min-width: 768px) {
+  #seoManualContent #investors .icons-list {
+    padding: 0 50px;
+  }
+
+  #seoManualContent #investors .header_2 {
+    margin-top: 0;
+    padding-top: 56px;
+  }
+}
+
+/* #seoManualContent .header_2:after {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  content: " ";
+  display: block;
+  width: 33px;
+  border: solid #A1A9C3;
+  border-width: 3px 0 0 0;
+  text-align: center;
+} */
+
+#seoManualContent .subtitle {
+  margin-top: 15px;
+  text-align: center !important;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: bold;
+  color: #a1a9c3 !important;
+  line-height: 20px;
+}
+
+#seoManualContent .image-grid {
+  height: 180px;
+  width: 180px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px 0;
+  background-position: center;
+  background-size: contain;
+}
+
+#seoManualContent h4.usp-text {
+  font-size: 20px;
+  text-align: center;
+  padding-top: 1px;
+  color: #008080;
+}
+
+#seoManualContent p.usp-text {
+  font-size: 16px !important;
+  text-align: center !important;
+  width: 272px;
+  padding-top: 2px;
+  line-height: 24px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#who-we-are .col-md-4.col-sm-12.col-xs-12 {
+  padding-top: 80px;
+}
+
+#who-we-are .item {
+  margin-bottom: 40px;
+}
+
+#seoManualContent .social .subtitle {
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+
+#seoManualContent .social-icons {
+  display: inline-block;
+  height: 24px;
+  width: 24px;
+  margin-left: 13px;
+  margin-right: 13px;
+}
+
+#seoManualContent .sharing-buttons {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  text-align: center;
+}
+
+#seoManualContent .social {
+  margin-bottom: 56px;
+}
+
+#seoManualContent .blue-panel {
+  display: block;
+  background-color: #008080;
+  text-align: center;
+  min-width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin: 0px -50vw;
+  padding: 40px 15px;
+}
+
+#seoManualContent #history .row {
+  max-width: 1170px;
+  margin: auto;
+}
+
+#seoManualContent #history .header_2 {
+  margin-top: 0;
+  padding-top: 16px;
+  color: #ffffff;
+  margin-bottom: 40px;
+}
+
+#seoManualContent #history .intro {
+  color: #ffffff;
+  font-size: 32px;
+  font-weight: bold;
+  line-height: 38px;
+  text-align: left;
+  margin-bottom: 16px;
+}
+
+@media screen and (min-width: 992px) {
+  #seoManualContent #history .right-padding {
+    padding-right: 60px;
+  }
+
+  #seoManualContent #fast-facts .right-padding {
+    padding-right: 60px;
+  }
+}
+
+#seoManualContent #history p {
+  color: #ffffff;
+  margin-bottom: 40px;
+}
+
+#seoManualContent .grey-panel {
+  display: block;
+  background-color: #f1f2f6;
+  text-align: center;
+  min-width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin: 0px -50vw;
+  padding: 40px 15px;
+}
+
+#seoManualContent .avatar1 {
+  height: 224px;
+  width: 224px;
+  border-radius: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 24px;
+}
+
+#seoManualContent .avatar-text h4 {
+  font-size: 20px;
+  line-height: 28px;
+  text-align: left;
+  margin-bottom: 4px;
+}
+
+#seoManualContent .avatar-text p {
+  height: 16px;
+  color: #a1a9c3 !important;
+  font-size: 12px !important;
+  font-weight: 500;
+  letter-spacing: 1.2px;
+  line-height: 16px;
+  text-transform: uppercase;
+}
+
+#seoManualContent .avatar-text:after {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  content: " ";
+  display: block;
+  width: 100%;
+  border: solid #c3ccd4;
+  border-width: 1px 0 0 0;
+}
+
+#seoManualContent .avatars {
+  height: 120px;
+  width: 120px;
+  border-radius: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 48px;
+  margin-bottom: 24px;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+#seoManualContent #fast-facts .intro {
+  max-width: 432px;
+  color: #132968;
+  font-size: 26px;
+  font-weight: bold;
+  line-height: 30px;
+  text-align: left;
+  margin-bottom: 16px;
+}
+
+#seoManualContent #investors p {
+  color: #ffffff;
+  text-align: left;
+}
+
+.col-md-6.col-sm-12.text-wrap {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.facts .col-md-6 {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+#seoManualContent .facts {
+  margin-bottom: 40px;
+}
+
+#seoManualContent #fast-facts p.paragraph {
+  margin-bottom: 30px !important;
+  max-width: 432px;
+}
+
+#seoManualContent #acknowledgement p.paragraph {
+  text-align: left;
+}
+
+#seoManualContent #acknowledgement p.paragraph:first-child {
+  margin-bottom: 24px;
+}
+
+#seoManualContent #acknowledgement .header_2 {
+  margin-top: 16px;
+}
+
+@media screen and (min-width: 768px) {
+  #who-we-are .item {
+    margin-bottom: 0;
+  }
+
+  #seoManualContent #fast-facts .facts img {
+    max-width: 432px !important;
+    margin: auto;
+    display: block;
+    width: 432px !important;
+  }
+  #seoManualContent .avatars {
+    margin-right: 0;
+    margin-left: 0;
+    flex: 1 0 80px;
+    margin-right: 24px;
+  }
+
+  #seoManualContent .avatar-text-wrapper {
+    padding-top: 6%;
+    margin-left: auto;
+  }
+
+  #seoManualContent .avatar-text {
+  }
+
+  #seoManualContent .avatar-cards {
+    /* margin-right: auto; */
+    /* margin-left: auto; */
+    display: flex;
+    padding-bottom: 7%;
+  }
+
+  #seoManualContent #investors .blue-panel {
+    padding-bottom: 96px;
+  }
+
+  #seoManualContent #acknowledgement .header_2 {
+    margin-top: 56px;
+  }
+
+  #seoManualContent #acknowledgement .grey-panel {
+    padding-bottom: 80px;
+  }
+}
+
+#seoManualContent .avatar-cards p {
+  text-align: left !important;
+}
+
+#seoManualContent .leadership-avatar-main .col-md-4 {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+#seoManualContent .leadership-avatar-main .col-md-8 {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+#seoManualContent .leadership-avatar .col-md-6 {
+}
+
+@media only screen and (min-width: 768px) {
+  #seoManualContent #leadership .header_2 {
+    margin-bottom: 64px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  #seoManualContent .avatars {
+    flex: 1 0 120px;
+  }
+}
+
+@media only screen and (min-width: 1224px) {
+  #seoManualContent #leadership .paragraph {
+    width: auto;
+  }
+
+  /*
+#seoManualContent header.full-width .titles {
+padding-left: 152px;
+padding-top: 3%;
+}
+#seoManualContent header.full-width {
+height: 320px
+}
+#seoManualContent header.full-width .titles h1 {
+font-size: 56px;
+}*/
+  #seoManualContent .header_2 {
+    width: 752px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  #seoManualContent p.usp-text {
+    max-width: 100%;
+  }
+
+  #seoManualContent .social {
+    width: 352px;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+  }
+
+  #seoManualContent .sharing-buttons {
+    display: flex;
+  }
+
+  #seoManualContent .container-paragraph {
+    width: 944px;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #seoManualContent .container-paragraph .col-md-6.col-sm-12 {
+    width: 472px !important;
+  }
+
+  #seoManualContent .col-md-6.col-sm-12.text-wrap {
+    padding: 6% !important;
+  }
+
+  #seoManualContent .paragraph {
+    max-width: 752px;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    text-align: left !important;
+  }
+
+  #seoManualContent .leadership-avatar-main {
+    padding-bottom: 32px;
+  }
+
+  #seoManualContent .leadership-avatar-main .col-md-8 {
+    width: 656px !important;
+  }
+
+  #seoManualContent .leadership-avatar {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #seoManualContent .social .subtitle {
+    margin-top: 7%;
+  }
+
+  #seoManualContent .fact-text {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #seoManualContent .facts {
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 115px;
+  }
+
+  #seoManualContent .facts-image {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #seoManualContent .avatar1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+/*corporate style*/
+#seoManualContent .corporate {
+  margin: 40px 0 80px;
+}
+
+#seoManualContent .corporate .carousel-inner .item img {
+  max-height: 270px;
+  margin-bottom: 12px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 0 !important;
+}
+
+#seoManualContent .corporate .carousel-inner .item .carousel-caption {
+  position: relative;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 12px;
+  font-size: 18px;
+  border-radius: 0 !important;
+}
+
+#seoManualContent .corporate .carousel-inner .item .carousel-caption p {
+  text-align: center;
+  font-size: 18px;
+  color: #717fa4;
+  text-shadow: none;
+}
+
+#seoManualContent .corporate .carousel-inner .item .carousel-caption .name {
+  line-height: 1;
+  color: #132968;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 15px;
+  margin-bottom: 0;
+  /* position: absolute; */
+  /* bottom: 0px; */
+}
+
+#seoManualContent .corporate .carousel-inner .item .carousel-caption .subtitle {
+  line-height: 1;
+  margin-top: 5px;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 1.2px;
+  line-height: 16px;
+  text-align: center;
+}
+
+#seoManualContent .corporate .carousel-control.right,
+#seoManualContent .corporate .carousel-control.left {
+  background-image: none !important;
+  margin-top: 0 !important;
+}
+
+#seoManualContent .corporate .carousel-control {
+  opacity: 1 !important;
+}
+
+#seoManualContent .corporate .carousel-control .glyphicon-chevron-right {
+  width: 20px;
+  height: 20px;
+  right: 50%;
+  top: 150px !important;
+  margin-right: -10px;
+  text-align: right;
+  -webkit-transform: rotate(135deg);
+  -moz-transform: rotate(135deg);
+  -o-transform: rotate(135deg);
+  -ms-transform: rotate(135deg);
+  transform: rotate(135deg);
+}
+
+#seoManualContent .corporate .carousel-control .glyphicon-chevron-right:after {
+  border-radius: 8px;
+  display: block;
+  height: 3px;
+  width: 20px;
+  background-color: #a1a9c3;
+  content: " ";
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  -ms-transform: rotate(0deg);
+  transform: rotate(0deg);
+  position: absolute;
+}
+
+#seoManualContent .corporate .carousel-control .glyphicon-chevron-right:before {
+  float: left;
+  border-radius: 8px;
+  display: block;
+  height: 20px;
+  width: 3px;
+  background-color: #a1a9c3;
+  content: " ";
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  -ms-transform: rotate(0deg);
+  transform: rotate(0deg);
+  position: absolute;
+}
+
+#seoManualContent .corporate .carousel-control .glyphicon-chevron-left {
+  width: 20px;
+  height: 20px;
+  right: 50%;
+  top: 150px !important;
+  margin-right: -10px;
+  text-align: right;
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(315deg);
+}
+
+#seoManualContent .corporate .carousel-control .glyphicon-chevron-left:after {
+  border-radius: 8px;
+  display: block;
+  height: 3px;
+  width: 20px;
+  background-color: #a1a9c3;
+  content: " ";
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  -ms-transform: rotate(0deg);
+  transform: rotate(0deg);
+  position: absolute;
+}
+
+#seoManualContent .corporate .carousel-control .glyphicon-chevron-left:before {
+  float: left;
+  border-radius: 8px;
+  display: block;
+  height: 20px;
+  width: 3px;
+  background-color: #a1a9c3;
+  content: " ";
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  -ms-transform: rotate(0deg);
+  transform: rotate(0deg);
+  position: absolute;
+}
+
+@media screen and (max-width: 940px) {
+  #seoManualContent #who-we-are .container .row .col-md-4 p.usp-text {
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+@media screen and (max-width: 768px) {
+  #seoManualContent #who-we-are .container .row .col-sm-4 .item p.usp-text {
+    max-width: 100% !important;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  #who-we-are p {
+    width: 752px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #who-we-are .paragraph {
+    margin-bottom: 64px;
+  }
+
+  #who-we-are .container .row {
+    max-width: 944px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #who-we-are .bottom-grey-line {
+    width: 944px;
+  }
+
+  #seoManualContent .corporate {
+    margin: 65px 0;
+  }
+
+  #seoManualContent .corporate .carousel-inner .item.active {
+    display: block;
+    /* grid-template-columns: 70% auto; */
+  }
+
+  #seoManualContent .corporate {
+    padding-left: 8.5%;
+    padding-right: 8.5%;
+  }
+
+  #seoManualContent .corporate .carousel-control .glyphicon-chevron-right {
+    right: 20%;
+    top: 50% !important;
+  }
+
+  #seoManualContent .corporate .carousel-control .glyphicon-chevron-left {
+    left: 20%;
+    top: 50% !important;
+  }
+
+  #seoManualContent .corporate .carousel-inner .item .carousel-caption {
+    padding-top: 60px;
+    float: right;
+    max-width: 50%;
+  }
+
+  #seoManualContent .corporate .carousel-inner .item .carousel-caption p {
+    font-size: 24px;
+    text-align: left;
+    line-height: 36px;
+  }
+
+  #seoManualContent .corporate .carousel-inner .item img {
+    float: left;
+    display: block;
+    max-height: 435px;
+    padding-top: 60px;
+    max-width: 50% !important;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+
+  #seoManualContent
+    .corporate
+    .carousel-inner
+    .item
+    .carousel-caption
+    .employee-title
+    .subtitle {
+    margin-top: 5px;
+    text-align: left !important;
+  }
+
+  #seoManualContent .header_2 {
+    margin-top: 96px;
+    font-size: 40px;
+    line-height: 48px;
+  }
+
+  #seoManualContent #history .header_2 {
+    margin-top: 0;
+    padding-top: 56px;
+    margin-bottom: 64px;
+  }
+}
+
+/* iMPRINT STYLING */
+#seoManualContent #imprint {
+  padding: 56px 0 80px;
+}
+
+#seoManualContent #imprint .size-h4 {
+  font-size: 30px;
+  color: #132968;
+  font-weight: bold;
+  line-height: 1.2;
+  margin-bottom: 16px;
+}
+
+#seoManualContent #imprint .imprint {
+  max-width: 80%;
+  color: #717fa4;
+  font-size: 22px;
+  font-weight: bold;
+  text-align: left;
+  margin-bottom: 56px;
+  margin-left: 0 !important;
+}
+
+#seoManualContent #imprint .contact-info {
+  margin-top: 24px;
+  border-radius: 8px;
+  display: block;
+  width: 100%;
+  background-color: #f1f2f6;
+  padding: 30px;
+  margin-bottom: 32px;
+}
+
+#seoManualContent #imprint .contact-info:first-child {
+  margin-bottom: 32px;
+}
+
+#seoManualContent #imprint .imprint-reference {
+  margin-top: 30px;
+}
+
+#seoManualContent #imprint p {
+  text-align: left;
+  /** Footer-static-styling overrides all font-family behaviour */
+  font-family: "GT Walsheim", Helvetica, Arial, sans-serif !important;
+}
+
+#seoManualContent #imprint p a {
+  word-break: break-all;
+}
+
+#seoManualContent #imprint .article-content.text-left .col-two {
+  padding: 0 15px;
+}
+
+@media screen and (min-width: 768px) {
+  #seoManualContent #imprint {
+    padding: 96px 20px 80px;
+  }
+
+  #seoManualContent #imprint .col-div {
+    display: flex;
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  #seoManualContent #imprint div.article-content .col-two {
+    width: 50%;
+  }
+}
+
+/* END OF IMPRINT STYLING */
+
+/* APPS STYLING */
+#app-bar .rating {
+  height: 32px;
+  text-align: center;
+}
+
+#app-bar .rating img {
+  padding-top: 5px;
+}
+
+#app-bar .fact {
+  color: #008080;
+  font-family: "GT Walsheim", Helvetica, Arial, sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 32px;
+  text-align: center;
+}
+
+#app-bar .fact-subtitle {
+  color: #425486;
+  font-family: "GT Walsheim", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+#app-bar .app-btns {
+  margin-top: 8px;
+}
+
+.banner-hand {
+  z-index: 3;
+  position: absolute;
+  bottom: 1px;
+  right: 0;
+  max-width: 180px;
+  padding-bottom: 50px;
+  width: 30%;
+}
+
+#usps {
+  padding-bottom: 96px;
+}
+
+#seoManualContent #bottom-bar .header_2 {
+  margin-top: 0;
+  padding-top: 16px;
+  color: #ffffff;
+  margin-bottom: 40px;
+}
+
+#seoManualContent #bottom-bar .intro {
+  color: #ffffff;
+  font-size: 32px;
+  font-weight: bold;
+  line-height: 38px;
+  text-align: left;
+  margin-bottom: 16px;
+}
+
+#seoManualContent #bottom-bar p {
+  color: #ffffff;
+  margin-bottom: 40px;
+}
+
+#seoManualContent #bottom-bar .blue-panel {
+  padding-bottom: 0;
+}
+
+#seoManualContent .app-btns {
+  display: inline-block;
+}
+
+#seoManualContent .app-btns .app-btn {
+  float: left;
+  width: 122px;
+}
+
+#seoManualContent .app-btns .app-btn:first-child {
+  margin-right: 8px;
+  margin-bottom: 8px;
+}
+
+#usps .item {
+  margin-bottom: 40px;
+}
+
+#seoManualContent #bottom-bar .mobile-tickets-image {
+  max-width: 420px;
+  margin: 0 auto;
+  padding-top: 32px;
+}
+
+@media screen and (min-width: 768px) {
+  #app-bar .rating {
+    text-align: left;
+  }
+
+  #app-bar .fact,
+  #app-bar .fact-subtitle {
+    text-align: left;
+    margin-bottom: 0;
+  }
+
+  #usps .item {
+    padding: 0 20px;
+    margin-bottom: 0;
+  }
+
+  #seoManualContent #bottom-bar .header_2 {
+    margin-top: 0;
+    padding-top: 56px;
+    margin-bottom: 64px;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .banner-hand {
+    max-width: 350px;
+    bottom: 2px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  #seoManualContent #bottom-bar .mobile-tickets-image {
+    padding-top: 0;
+    max-width: initial;
+    margin-bottom: 100px;
+  }
+}
+
+/* END OF APPS STYLING */
+
+/* Terms and conditions styling */
+
+#termsandconditions {
+  padding-bottom: 56px;
+  color: #425486;
+  font-family: "GT Walsheim", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+#seoManualContent #termsandconditions .contact-info {
+  border-radius: 8px;
+  display: inline-block;
+  background-color: #f1f2f6;
+  padding: 32px;
+}
+
+#seoManualContent #termsandconditions .contact-info:first-child {
+  margin-bottom: 32px;
+}
+
+#seoManualContent #termsandconditions .article-content .contact-info p {
+  margin: 0;
+}
+
+#seoManualContent #termsandconditions .size-h4 {
+  color: #132968;
+  font-family: "GT Walsheim", Helvetica, Arial, sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  line-height: 48px;
+  padding-top: 56px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+#seoManualContent #termsandconditions .article-content p {
+  margin-top: 24px;
+}
+
+#seoManualContent #termsandconditions h6 {
+  color: #132968;
+  font-family: "GT Walsheim", Helvetica, Arial, sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 32px;
+  margin-top: 48px;
+  margin-bottom: 8px;
+}
+
+@media screen and (min-width: 768px) {
+  #termsandconditions {
+    padding-top: 24px;
+    padding-bottom: 96px;
+  }
+
+  #seoManualContent #termsandconditions .size-h4 {
+    padding-top: 72px;
+  }
+}
+
+/* END OF TOC STYLING */
+
+/* Privacy Styling */
+#privacy {
+  padding-bottom: 56px;
+  color: #425486;
+  font-family: "GT Walsheim", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+#seoManualContent #privacy .article.article-press-detail {
+  padding-top: 36px;
+}
+
+#seoManualContent #privacy .size-h4 {
+  color: #132968;
+  font-family: "GT Walsheim", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 36px;
+  padding-top: 56px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+#seoManualContent #privacy .article-content {
+  max-width: initial;
+}
+
+#seoManualContent #privacy .article-content p {
+  margin-top: 24px;
+  /** Footer-static-styling overrides all font-family behaviour */
+  font-family: "GT Walsheim", Helvetica, Arial, sans-serif !important;
+  word-break: normal;
+}
+
+#seoManualContent #privacy .article-content p a {
+  word-break: normal;
+}
+
+#seoManualContent #privacy h6 {
+  color: #132968;
+  font-family: "GT Walsheim", Helvetica, Arial, sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 32px;
+  margin-top: 48px;
+  margin-bottom: 8px;
+}
+
+#seoManualContent #privacy ul {
+  padding: 0;
+  margin-top: 20px;
+  padding-left: 10px;
+}
+
+#seoManualContent #privacy li {
+  list-style: none;
+}
+/* Useless rule?
+#seoManualContent #privacy li:before {
+  content:"ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â·";
+  font-size: 30px;
+  vertical-align: middle;
+  line-height: 24px;
+  padding-right: 15px;
+}
+*/
+#seoManualContent table {
+  border: 0;
+}
+
+#seoManualContent table tbody {
+  overflow: hidden;
+}
+
+#seoManualContent table tr:first-child {
+  background-color: #f1f2f6;
+}
+
+#seoManualContent table tr:first-child th:first-child {
+  border-radius: 8px 0 0 0;
+}
+
+#seoManualContent table tr:first-child th:last-child {
+  border-radius: 0 8px 0 0;
+}
+
+#seoManualContent table tr {
+  border-bottom: 1px solid #e4e8eb;
+}
+
+#seoManualContent table tr:first-child {
+  border: 0;
+}
+
+#seoManualContent #privacy table th {
+  color: #a1a9c3;
+  font-family: "GT Walsheim", Helvetica, Arial, sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 1.2px;
+  line-height: 16px;
+  padding: 32px 0 8px 24px !important;
+  text-transform: uppercase;
+}
+
+#seoManualContent #privacy table td {
+  color: #425486;
+  font-family: "GT Walsheim", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  vertical-align: top;
+  padding: 16px !important;
+}
+
+#seoManualContent #privacy table td a {
+  font-size: 14px;
+  line-height: 20px;
+}
+
+#seoManualContent #privacy .table-wrapper {
+  overflow-x: scroll;
+  max-width: 752px;
+  margin: auto;
+}
+
+@media screen and (min-width: 768px) {
+  #privacy {
+    padding-top: 24px;
+    padding-bottom: 96px;
+  }
+
+  #seoManualContent #privacy .size-h4 {
+    padding-top: 72px;
+    font-size: 40px;
+    line-height: 48px;
+  }
+}
+
+/** Banner styling */
+#seoManualContent .banner {
+  height: 160px;
+}
+
+#seoManualContent .banner .title {
+  margin: 0;
+  padding-top: 24px;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-bottom: 96px;
+  color: #ffffff;
+  font-family: "GT Walsheim", Helvetica, Arial, sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 28px;
+}
+
+#seoManualContent .banner .content {
+  z-index: 2;
+  position: absolute;
+  height: 160px;
+}
+
+#seoManualContent .banner .title {
+}
+
+#seoManualContent .banner .imageWrapper {
+  height: 160px;
+  width: 100vw;
+  left: 0;
+  position: absolute;
+  overflow: hidden;
+  max-width: initial;
+  z-index: 2;
+}
+
+#seoManualContent .banner .imageInnerWrapper {
+  position: absolute;
+  width: 786px;
+  height: 160px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#seoManualContent .banner.image {
+  width: 786px;
+  height: 160px;
+}
+
+@media screen and (min-width: 768px) {
+  #seoManualContent .banner {
+    height: 320px;
+  }
+
+  #seoManualContent .banner .title {
+    padding-top: 72px;
+    padding-bottom: 120px;
+  }
+
+  #seoManualContent .banner .title {
+    font-size: 56px;
+    line-height: 64px;
+  }
+
+  #seoManualContent .banner .imageWrapper {
+    height: 320px;
+  }
+
+  #seoManualContent .banner .imageInnerWrapper,
+  .image {
+    height: 320px;
+    width: 1240px;
+  }
+}
+
+@media screen and (min-width: 1224px) {
+  #seoManualContent .banner {
+    height: 40vh;
+  }
+
+  #seoManualContent .banner .imageWrapper {
+    height: 40vh;
+  }
+
+  #seoManualContent .banner .imageInnerWrapper,
+  .image {
+    height: 40vh;
+    width: 174.19vh;
+  }
+}
+
+/* END BANNER STYLING */
+
+/* END OF PRIVACY STYLING */
+
+#seoManualContent .hidden-mobile {
+  display: none;
+}
+
+@media screen and (min-width: 768px) {
+  #seoManualContent .hidden-mobile {
+    display: block;
+  }
+
+  #seoManualContent .hidden-desktop {
+    display: none;
+  }
+}
+
+/* PRESS STYLING */
+#press {
+  margin: 56px 0;
+}
+
+#press .article,
+#press .article-content {
+  margin: 0 auto;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+#press .size-h4 {
+  color: #132968;
+  font-family: "GT Walsheim", Helvetica, Arial, sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  line-height: 48px;
+}
+
+/** Footer-static-styling overrides all font-family behaviour */
+#seoManualContent #press p {
+  font-family: "GT Walsheim", Helvetica, Arial, sans-serif !important;
+}
+
+#press .press-entry {
+  border-top: 0;
+  border-bottom: 1px solid #e4e8eb;
+}
+
+#press .press-entry.more {
+  border-bottom: 0;
+  margin-bottom: 56px;
+  color: #5e90cc;
+  font-family: "GT Walsheim", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 24px;
+}
+
+#press .press-entry.more a,
+#press .press-entry.more a:visited,
+#press .press-entry.more a:active {
+  color: #5e90cc;
+}
+
+#press .press-entry .date {
+  color: #a1a9c3;
+  font-family: "GT Walsheim", Helvetica, Arial, sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 1.2px;
+  line-height: 16px;
+  text-transform: uppercase;
+  margin-bottom: 4px;
+}
+
+#press .press-entry .teaser {
+  font-family: "GT Walsheim", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+#press .news-entry {
+  position: relative;
+}
+
+#press .press-entry .img-press {
+  position: absolute;
+  left: 0;
+}
+
+#press .news-entry .teaser,
+#press .news-entry .date {
+  display: inline-block;
+  margin-left: 84px;
+}
+
+#press .contact-info {
+  text-align: center;
+  margin-top: 24px;
+  border-radius: 8px;
+  display: block;
+  width: 100%;
+  background-color: #f1f2f6;
+  padding: 32px;
+}
+
+#press .contact-info p {
+  display: inline-block;
+  text-align: center;
+}
+
+@media screen and (min-width: 768px) {
+  #press {
+    margin: 96px 0;
+  }
+
+  #press .press-entry.more {
+    margin-bottom: 96px;
+  }
+}
+
+/* END OF PRESS STYLING */
+
+/* START PRESS-RELEASE STYLING */
+#press-release {
+  margin: 56px auto;
+}
+
+#press-content {
+  max-width: 780px;
+  margin: 0 auto;
+}
+
+#press-release .contact-info {
+  font-size: 16px;
+  line-height: 24px;
+
+  text-align: center;
+  margin-top: 24px;
+  border-radius: 8px;
+  display: block;
+  width: 100%;
+  background-color: #f1f2f6;
+  padding: 20px;
+}
+
+#press-release .contact-info p {
+  margin: 0;
+  display: inline-block;
+  text-align: center;
+}
+
+#seoManualContent #press-release a {
+  word-break: break-all;
+}
+
+#seoManualContent #press-release .page-title {
+  color: #132968;
+  font-family: "GT Walsheim", Helvetica, Arial, sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  line-height: 48px;
+}
+
+#seoManualContent #press-release #press-content hr {
+  margin-top: 56px;
+  margin-bottom: 0;
+  border-top: 1px solid #e4e8eb;
+}
+
+#seoManualContent #press-release .date {
+  color: #a1a9c3;
+  font-family: "GT Walsheim", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 1.4px;
+  line-height: 20px;
+  text-transform: uppercase;
+  margin-bottom: 16px;
+  margin-top: 56px;
+}
+
+#seoManualContent #press-release h3 {
+  text-align: left;
+  margin: 0;
+  margin-bottom: 24px;
+}
+
+/** NOTE: This should be fixed in the rebrand_styling.css sheet ! */
+#seoManualContent #press-release h3 span {
+  color: #132968;
+  font-family: "GT Walsheim", Helvetica, Arial, sans-serif !important;
+  font-size: 26px;
+  font-weight: bold;
+  line-height: 30px;
+  text-transform: none;
+}
+
+#seoManualContent #press-release h4 {
+  text-align: left;
+  font-weight: normal;
+  color: #425486;
+  font-family: "GT Walsheim", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  margin: 16px 0;
+}
+
+#seoManualContent #press-release p {
+  text-align: left;
+  color: #425486;
+  font-family: "GT Walsheim", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+@media screen and (min-width: 768px) {
+  #press-release {
+    margin: 96px auto;
+  }
+
+  #seoManualContent #press-release .page-title {
+    text-align: left;
+  }
+
+  #seoManualContent #press-release #press-content hr {
+    margin: 96px 0;
+    border-top: 1px solid #e4e8eb;
+  }
+
+  #seoManualContent #press-release .date {
+    font-size: 16px;
+    letter-spacing: 1.6px;
+    line-height: 24px;
+  }
+
+  #seoManualContent #press-release h3 span {
+    font-size: 32px;
+    line-height: 38px;
+  }
+
+  #seoManualContent #press-release h4 {
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  #seoManualContent #press-release p {
+    font-size: 16px;
+    line-height: 24px;
+  }
+}
+
+/* END OF PRESS-RELEASE STYLING */
+
+/* CONTACT STYLING */
+#seoManualContent #contact {
+  margin-bottom: 56px;
+  max-width: 1120px;
+}
+
+#seoManualContent .main-content {
+  display: block;
+}
+
+#seoManualContent .left-col p {
+  margin-bottom: 24px;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+#seoManualContent #contact h2 {
+  color: #132968;
+  font-family: "GT Walsheim", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+  margin-top: 56px;
+  margin-bottom: 24px;
+}
+
+#seoManualContent #contact .contact-info {
+  margin-top: 24px;
+  border-radius: 8px;
+  display: block;
+  width: 100%;
+  max-width: 432px;
+  background-color: #f1f2f6;
+  padding: 30px;
+  margin-bottom: 32px;
+}
+
+#seoManualContent #contact .contact-info address {
+  margin-bottom: 0;
+}
+
+@media screen and (min-width: 768px) {
+  #seoManualContent #contact {
+    margin: 56px auto 96px;
+  }
+
+  #seoManualContent #contact .main-content {
+    display: flex;
+  }
+
+  #seoManualContent #contact h2 {
+    font-size: 32px;
+    line-height: 38px;
+  }
+
+  #seoManualContent .left-col {
+    flex: 0 1 568px;
+    padding-left: 8.333333%;
+    padding-right: 16.66666%;
+  }
+
+  #seoManualContent .right-col {
+    padding-left: 16px;
+    padding-right: 8.333333%;
+    flex: 0 1 568px;
+  }
+}
+
+/* END OF CONTACT STYLING */
+
+/* Sticky Menu Styling */
+#seoManualContent .stickyMenu {
+  /* Make this scrollable when needed */
+  overflow-x: auto;
+  /* We don't want vertical scrolling */
+  overflow-y: hidden;
+  /* Make an auto-hiding scroller for the 3 people using a IE */
+  -ms-overflow-style: -ms-autohiding-scrollbar;
+  /* For WebKit implementations, provide inertia scrolling */
+  -webkit-overflow-scrolling: touch;
+  /* We don't want internal inline elements to wrap */
+  white-space: nowrap;
+  /* Remove the default scrollbar for WebKit implementations */
+  text-align: center;
+  border-bottom: solid 1px #e4e8eb;
+  box-shadow: 0 4px 8px 0 rgba(19, 41, 104, 0.1);
+}
+
+#seoManualContent .stickyMenu::-webkit-scrollbar {
+  display: none;
+}
+
+#seoManualContent .stickyMenu .item {
+  padding: 24px 24px 20px 24px;
+  border-bottom: 4px solid transparent;
+  color: #132968;
+  font-family: "GT Walsheim", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 24px;
+  text-align: center;
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+#seoManualContent .stickyMenu .item:last-child {
+  margin-right: 32px;
+}
+
+#seoManualContent .stickyMenu a.item,
+#seoManualContent .stickyMenu a.item:visited,
+#seoManualContent .stickyMenu a.item:hover,
+#seoManualContent .stickyMenu a.item:hover {
+  color: #132968;
+}
+
+#seoManualContent .stickyMenu .item[aria-selected="true"],
+#seoManualContent .stickyMenu .item.active {
+  border-bottom: 4px solid #fa6b6b;
+}
+
+#seoManualContent .mobile-overlay {
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 11;
+  height: 72px;
+  width: 51px;
+  background: linear-gradient(90deg, rgba(241, 242, 246, 0) 0%, #f1f2f6 100%);
+  pointer-events: none;
+}
+
+.fixed-nav #seoManualContent .mobile-overlay {
+  position: fixed;
+}
+
+/* CSS code, add in a separate file or style tag */
+/* always applied */
+#seoManualContent nav {
+  width: 100vw;
+  background-color: white;
+  position: absolute;
+  left: 0;
+}
+
+/* applied after scroll height reached */
+.fixed-nav #seoManualContent nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 10;
+}
+
+#seoManualContent .sticky-wrapper {
+  position: relative;
+  width: 100vw;
+  max-width: initial;
+  margin-left: -16px;
+  padding-bottom: 72px;
+}
+
+@media screen and (min-width: 768px) {
+  #seoManualContent .sticky-wrapper {
+    position: initial;
+    width: auto;
+    margin-left: 0;
+  }
+
+  #seoManualContent .hide-desktop {
+    display: none;
+  }
+}
+
+/* End of Sticky Menu styling */
+
+/* GENERAL HEADER */
+/*additional rules */
+
+#seoManualContent .employee-title .subtitle {
+  text-align: left !important;
+}
+#seoManualContent #fast-facts .facts img {
+  width: 320px;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+/* END OF GENERAL CORPORATE PAGES */
